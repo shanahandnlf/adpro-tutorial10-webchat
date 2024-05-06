@@ -7,6 +7,8 @@ use yew_router::prelude::*;
 
 
 mod components;
+mod services;
+
 use components::login::Login;
 use components::chat::Chat;
 
