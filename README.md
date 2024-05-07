@@ -6,7 +6,9 @@
 
 3.2. Add some creativities to the webclient
 
+![alt text](image-2.png)
 
+I tried to modify the code to use  a navy blue and beige color theme on the webchat
 
 
 
